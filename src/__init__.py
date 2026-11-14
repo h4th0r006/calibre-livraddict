@@ -17,8 +17,8 @@ _DERNIERE = [0.0]
 class Livraddict(Source):
     name = "Livraddict"
     description = "Télécharge métadonnées et couvertures depuis Livraddict (livraddict.com)"
-    author = "Chris"
-    version = (1, 0, 1)
+    author = "H4TH0R"
+    version = (1, 0, 2)
     minimum_calibre_version = (6, 0, 0)
 
     capabilities = frozenset({"identify", "cover"})

@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.2 — 2026-11-14
+- Auteur du plugin affiché sous le pseudo « H4TH0R ».
+
 ## 1.0.1 — 2026-11-13
 - Éditeur et ISBN proviennent toujours de la même édition (la plus ancienne ayant un ISBN) ;
   la date reste celle de la 1re parution française.
